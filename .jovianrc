@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "Generating Data.ipynb": {
+      "slug": "a5d726a1ee7c4acf8442e042c3465ebc"
+    },
+    "Refining Profiles.ipynb": {
+      "slug": "4135338e898d49258611e0f78c7289fb"
+    },
+    "Preparing for final_modeling.ipynb": {
+      "slug": "3e1f98b7cce745078d15ac547a30d0ec"
+    }
+  }
+}
